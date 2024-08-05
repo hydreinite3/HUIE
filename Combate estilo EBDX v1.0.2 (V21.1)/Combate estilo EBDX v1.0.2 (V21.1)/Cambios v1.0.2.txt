@@ -1,0 +1,2 @@
+-Agregadas Outlines para los datos del jugador y rival
+-Agregada barra de vida para un Boss-Dominante
